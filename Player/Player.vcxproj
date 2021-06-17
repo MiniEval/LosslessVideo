@@ -80,6 +80,7 @@
     <LinkIncremental>true</LinkIncremental>
     <IncludePath>C:\Users\Min\Documents\Programming\libs\ZStd\include;C:\Users\Min\Documents\Programming\libs\SDL2\include;C:\Users\Min\Documents\Programming\libs\SDL2_image\include;$(IncludePath)</IncludePath>
     <LibraryPath>C:\Users\Min\Documents\Programming\libs\ZStd\dll;C:\Users\Min\Documents\Programming\libs\SDL2_image\lib\x64;C:\Users\Min\Documents\Programming\libs\SDL2\lib\x64;$(LibraryPath)</LibraryPath>
+    <TargetName>LV_Player</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
